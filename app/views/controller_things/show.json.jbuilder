@@ -1,0 +1,1 @@
+json.partial! "controller_things/controller_thing", controller_thing: @controller_thing

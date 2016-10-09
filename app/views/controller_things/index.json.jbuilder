@@ -1,0 +1,1 @@
+json.array! @controller_things, partial: 'controller_things/controller_thing', as: :controller_thing
