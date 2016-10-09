@@ -1,0 +1,2 @@
+class ResourceThingsController < ApplicationController
+end
