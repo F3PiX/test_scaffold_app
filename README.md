@@ -1,24 +1,6 @@
 # README
+Reference app to show the differences between generators: g scaffold Thing,  g scaffold_controller scaffold_thing, and g resource Resource_Thing 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+THis is a quick overview of the differences between model, resource and scaffold
+http://www.korenlc.com/rails-generate-model-vs-resourse-vs-scaffold/
+This app also shows what you get with the `rails g scaffold_controller` - including the different `controller_thing_params`
